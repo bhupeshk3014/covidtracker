@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7508b509ca4e864b3419aeaa2027b21a",
+    "revision": "cba35554ee934a02c02f91db61c13564",
     "url": "/covidtracker/index.html"
   },
   {
